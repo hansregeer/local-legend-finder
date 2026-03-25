@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-strava-orange: #fc4c02;
+  --color-strava-dark: #e84118;
+}
